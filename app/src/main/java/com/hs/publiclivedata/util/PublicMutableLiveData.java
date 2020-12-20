@@ -1,4 +1,4 @@
-package com.hs.healthcenter.viewmodels;
+package com.hs.publiclivedata.util;
 
 import androidx.annotation.NonNull;
 import androidx.lifecycle.LifecycleOwner;
